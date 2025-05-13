@@ -65,8 +65,8 @@ export const blogPosts: BlogPost[] = [
       
       <p>Tối ưu chi phí vận hành kho là một quá trình liên tục, đòi hỏi sự đánh giá và điều chỉnh thường xuyên. Bằng cách áp dụng những phương pháp trên, doanh nghiệp vừa và nhỏ có thể giảm đáng kể chi phí vận hành kho, từ đó nâng cao khả năng cạnh tranh trên thị trường.</p>
     `,
-    author: 'Nguyễn Văn A',
-    date: '2023-05-15',
+    author: 'Trần Anh Đức',
+    date: '2025-05-10',
     image: '/efficiency-cost-quality.jpg',
     category: 'Quản lý kho',
     tags: ['quan-ly-kho', 'tối ưu chi phí', 'logistics', 'doanh nghiệp SME'],
@@ -132,8 +132,8 @@ export const blogPosts: BlogPost[] = [
       
       <p>Việc lựa chọn vật tư đóng gói phù hợp là một phần quan trọng trong chiến lược logistics của doanh nghiệp. Bằng cách kết hợp giữa yếu tố bảo vệ sản phẩm, chi phí và trải nghiệm khách hàng, bạn sẽ tối ưu hóa quy trình đóng gói và nâng cao sự hài lòng của khách hàng đối với sản phẩm của mình.</p>
     `,
-    author: 'Trần Thị B',
-    date: '2023-06-22',
+    author: 'Trương Thanh Bình',
+    date: '2025-02-22',
     image: '/lovable-uploads/ecf864da-9767-4feb-8344-70ed214f30b6.png',
     category: 'Vật tư đóng gói',
     tags: ['vat-tu-dong-goi', 'đóng gói', 'bao bì', 'sản phẩm'],
@@ -229,8 +229,8 @@ export const blogPosts: BlogPost[] = [
       
       <p>Vận chuyển hàng hóa Bắc - Nam là một hoạt động quan trọng đối với nhiều doanh nghiệp Việt Nam. Việc lựa chọn phương thức vận chuyển phù hợp không chỉ giúp tiết kiệm chi phí mà còn nâng cao chất lượng dịch vụ, đáp ứng tốt hơn nhu cầu của khách hàng. Hy vọng bài viết này đã cung cấp cái nhìn tổng quan về các giải pháp vận chuyển Bắc - Nam hiệu quả, giúp doanh nghiệp đưa ra quyết định đúng đắn.</p>
     `,
-    author: 'Lê Minh C',
-    date: '2023-08-10',
+    author: 'Nguyễn Minh Tiến',
+    date: '2025-03-10',
     image: 'https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?q=80&w=2070&auto=format&fit=crop',
     category: 'Vận chuyển',
     tags: ['van-chuyen', 'bắc-nam', 'logistics', 'tối ưu chi phí'],
