@@ -5,20 +5,20 @@ import { Card, CardContent } from '@/components/ui/card';
 
 const testimonials = [
   {
-    name: 'Nguyễn Văn A',
-    position: 'CEO, Công ty X',
+    name: 'Nguyễn Tiến Thành',
+    position: 'CEO, Công ty tư nhân Spa',
     content: 'MBA Fulfillment đã giúp chúng tôi tối ưu hóa quy trình kho vận, tiết kiệm 30% chi phí vận hành. Dịch vụ tư vấn chuyên nghiệp, tận tâm.',
     image: 'https://randomuser.me/api/portraits/men/1.jpg',
   },
   {
-    name: 'Trần Thị B',
-    position: 'Founder, Shop Online Y',
+    name: 'Nguyễn Thanh An',
+    position: 'Founder, Shop Atxilux Premium',
     content: 'Vật tư đóng gói chất lượng cao, giao hàng đúng hẹn. Đặc biệt ấn tượng với dịch vụ vận chuyển Bắc - Nam tiết kiệm chi phí.',
     image: 'https://randomuser.me/api/portraits/women/2.jpg',
   },
   {
-    name: 'Lê Văn C',
-    position: 'Giám đốc vận hành, Công ty Z',
+    name: 'Daniel Smith',
+    position: 'Giám đốc vận hành, Công ty Verde',
     content: 'Sau khi được MBA tư vấn setup kho, hiệu suất xử lý đơn hàng của chúng tôi tăng gấp đôi. Rất hài lòng với sự chuyên nghiệp!',
     image: 'https://randomuser.me/api/portraits/men/3.jpg',
   },
